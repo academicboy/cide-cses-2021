@@ -1,4 +1,4 @@
-# Presentación Política y Gobierno (oct-20)Cancel changes
+# Presentación Política y Gobierno (oct-20)
 Análisis y visualización datos de la encuesta CIDE-CSES 2021. 
 La encuetsa CIDE-CSES es parte de un proyecto colaborativo mundial. Para el caso de México, esta encuesta está integrada en el Estudio Nacional Electoral Mexicano, el cual contienen un módulo de preguntas pertenecientes al CSES (Comparative Study of Electoral Systems). 
 
